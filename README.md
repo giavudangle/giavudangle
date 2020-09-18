@@ -18,13 +18,7 @@ Currently I'm **contributing and owner** following projects:
 
 
 <!-- <sup>**[Click here](https://github.com/giavudangle/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=moviedang)](https://github.com/giavudangle/moviedang)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=backend-trackapp)](https://github.com/giavudangle/backend-trackapp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=LinqToEntities)](https://github.com/giavudangle/LinqToEntities)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=face_mask_detection_OpenCV)](https://github.com/giavudangle/face_mask_detection_OpenCV)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=deepLearning_EmotionDetection)](https://github.com/giavudangle/deepLearning_EmotionDetection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=simplProductAPI)](https://github.com/giavudangle/simplProductAPI)
+**“Thank you for your visit! If you like my repositories, please take a second to star it ^^”**
 
 
 
