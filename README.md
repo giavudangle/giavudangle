@@ -16,30 +16,28 @@ Currently I'm **contributing and owner** following projects:
 | [**Emotion Detection**](https://github.com/giavudangle/deepLearning_EmotionDetection) | [![GitHub PRs](https://img.shields.io/github/stars/giavudangle/deepLearning_EmotionDetection?style=flat&logo=github)](https://github.com/giavudangle/deepLearning_EmotionDetection) | [![GitHub issues](https://img.shields.io/github/issues/giavudangle/deepLearning_EmotionDetection?color=green&logo=github&style=flat)](https://github.com/giavudangle/deepLearning_EmotionDetection/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/giavudangle/deepLearning_EmotionDetection?style=flat&logo=github)](https://github.com/giavudangle/deepLearning_EmotionDetection/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/giavudangle/deepLearning_EmotionDetection?style=flat&color=critical&logo=github)](https://github.com/giavudangle/deepLearning_EmotionDetection/pulls?q=is%3Apr+is%3Aclosed)|
 | [**Simple DENO API**](https://github.com/giavudangle/simplProductAPI) | [![GitHub PRs](https://img.shields.io/github/stars/giavudangle/simplProductAPI?style=flat&logo=github)](https://github.com/giavudangle/simplProductAPI) | [![GitHub issues](https://img.shields.io/github/issues/giavudangle/simplProductAPI?color=green&logo=github&style=flat)](https://github.com/giavudangle/simplProductAPI/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/giavudangle/simplProductAPI?style=flat&logo=github)](https://github.com/giavudangle/simplProductAPI/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/giavudangle/simplProductAPI?style=flat&color=critical&logo=github)](https://github.com/giavudangle/simplProductAPI/pulls?q=is%3Apr+is%3Aclosed)|
 
-
-<!-- <sup>**[Click here](https://github.com/giavudangle/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 **“Thank you for your visit! If you like my repositories, please take a second to star it ^^”**
 
+<!-- <sup>**[Click here](https://github.com/giavudangle/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=moviedang&theme=material-palenight)](https://github.com/giavudangle/moviedang)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=backend-trackapp&theme=material-palenight)](https://github.com/giavudangle/backend-trackapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=LinqToEntities&theme=material-palenight)](https://github.com/giavudangle/LinqToEntities)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=face_mask_detection_OpenCV&theme=material-palenight)](https://github.com/giavudangle/face_mask_detection_OpenCV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=deepLearning_EmotionDetection&theme=material-palenight)](https://github.com/giavudangle/deepLearning_EmotionDetection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=simplProductAPI&theme=material-palenight)](https://github.com/giavudangle/simplProductAPI)
 
 
-- 🔭 I’m currently working and learning on React Native, NodeJS, Swift in Ho Chi Minh, Viet Nam .
-- 👯 I’m looking to collaborate on Javascript & Python .
+
+
+- 🔭 I’m currently working and learning on React/React Native, NodeJS in Ho Chi Minh, Viet Nam .
+- 👯 I’m looking to collaborate on Javascript.
 - 🤔 I’m looking for help with AI, Swift .
 - 💬 Ask me about React, React Native, Javascript .
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/giavudangle)
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giavudangle&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- - 😄 Pronouns: ... -->
 <!--
 **giavudangle/giavudangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
