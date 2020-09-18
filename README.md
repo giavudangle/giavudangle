@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Glad to see you here!** :star_struck: <br> <b>I'm Vudang ☕
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giavudangle&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giavudangle&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/giavudangle) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=giavudangle.visitor-badge)](https://github.com/giavudangle) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/giavudangle)
 
