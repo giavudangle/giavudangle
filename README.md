@@ -6,10 +6,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/giavudangle) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=giavudangle.visitor-badge)](https://github.com/giavudangle) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/giavudangle)
 
 
-
-**“Thank you for your visit! If you like my repositories, please take a second to star it ^^”**
-
-<!-- <sup>**[Click here](https://github.com/giavudangle/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=moviedang&theme=slateorange )](https://github.com/giavudangle/moviedang)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=jwt-authentication-template&theme=slateorange )](https://github.com/giavudangle/jwt-authentication-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=linq-to-entities&theme=slateorange )](https://github.com/giavudangle/linq-to-entities)
