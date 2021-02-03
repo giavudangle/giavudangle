@@ -18,9 +18,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giavudangle&repo=deno-simpl-api&theme=material-palenight)](https://github.com/giavudangle/deno-simpl-api)
 
 
-- 🔭 I’m currently working and learning on React/React Native, NodeJS , Deep learning in Ho Chi Minh, Viet Nam .
-- 👯 I’m looking to collaborate on Javascript.
-- 🤔 I’m looking for help with Deep Learning & Artificial Intelligent.
 - 💬 Ask me about React, React Native, Javascript, Nodejs .
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/giavudangle)
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
