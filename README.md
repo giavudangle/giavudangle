@@ -1,5 +1,6 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🤖  **I'm Vu Dang**.  
+🍊  **I'm Vu Dang**.  
 
 [![](https://img.shields.io/badge/Facebook-VuDang-blue)](https://www.facebook.com/giavudangle)
 [![](https://img.shields.io/badge/Gmail-danglegiavu%40gmail.com-red)](mailto:danglegiavu@gmail.com)
