@@ -12,7 +12,7 @@
 const vudang = {
  pronouns: "He" | "Him",
     technologies:{
-        langs: ["javascript","typescript","c++","c#","java","python"],
+        lang: ["javascript","typescript","c++","c#","java","python"],
         frontEnd: ["reactjs","react-native"],
         backEnd: ["nodejs", "express","graphql"],
         database: ["mongodb","mysql","postgresql"],
