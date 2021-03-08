@@ -12,9 +12,10 @@
 const vudang = {
  pronouns: "He" | "Him",
     technologies:{
+        langs: ["javascript","typescript","c++","c#","java","python"],
         frontEnd: ["reactjs","react-native"],
         backEnd: ["nodejs", "express","graphql"],
-        database: ["mongodb","mySql"],
+        database: ["mongodb","mysql","postgresql"],
         architecture: ["microservices", "event-driven", "design systems and patterns"],
     },
     interests: ["music", "football", "reading", "movie","algorithm"]
