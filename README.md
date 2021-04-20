@@ -10,4 +10,6 @@ I'm Vudang, Hello World 👋
               ||     ||
               🌎     🌍     
 ```
+[![CodingwithVudang](dino.gif)](https://www.facebook.com/codingwithvudang)
+
 
